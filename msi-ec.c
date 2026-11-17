@@ -1319,6 +1319,7 @@ static struct msi_ec_conf CONF_G2_3 __initdata = {
 static const char *ALLOWED_FW_G2_4[] __initconst = {
 	"14N2EMS1.1", // Prestige 14 AI Studio C1UDXG
 	"14P1IMS1.1", // Cyborg 14 A13VF
+	"14P1IWS1.1", // Creator M14 A13VF
 	NULL
 };
 
@@ -2847,7 +2848,7 @@ static int __init load_configuration(void)
 	} else {
 		banned = true;
 	}
-	
+
 
 	// debug mode works regardless of whether the firmware is supported
 	if (debug)
