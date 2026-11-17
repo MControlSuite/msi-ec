@@ -1549,6 +1549,7 @@ static const char *ALLOWED_FW_G2_10[] __initconst = {
 	"15M2IMS1.1", // Raider GE68HX 13V(F/G) / Vector GP68HX 13VF
 	"15M2IMS2.1", // Raider GE68 HX 14VGG
 	"15M3EMS1.1", // Vector 16 HX AI A2XWHG / A2XWIG
+	"15P2ED61.1", // GameGaraj Slayer 4 (MSI Sword 16 HX derivative)
 	"15P2EMS1.1", // Sword 16 HX B13V / B14V
 	"15P3EMS1.1", // Pulse 16 AI C1VGKG/C1VFKG
 	"15P4EMS1.1", // Crosshair 16 HX AI D2XW(GKG)
