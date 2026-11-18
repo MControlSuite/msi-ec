@@ -1568,6 +1568,7 @@ static const char *ALLOWED_FW_G2_10[] __initconst = {
 	"17T2EMS1.1", // Sword 17 HX B14VGKG
 	"1822EMS1.1", // Titan 18 HX A14V
 	"1824EMS1.1", // Raider 18 HX AI A2XWJG / Titan 18 HX Dragon Edition
+	"1824EMS1.5", // Titan 18 HX A2WJ
 	"182KIMS1.1", // Raider A18 HX A7VIG
 	"182LIMS1.1", // Vector A18 HX A9WHG
 	NULL
